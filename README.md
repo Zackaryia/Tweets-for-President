@@ -2,7 +2,7 @@
 
 This was built for the [2020 Hack.GT Hackathon](https://2020.hack.gt/) and is ment to run sentamint analysis on twitter tweets
 
-##Run
+## Run
 to run first install the requirements.txt then make a file called keys.json in the same folder that main.py is in and in that file put this (replacing the text with your real twitter API key
 
     {
