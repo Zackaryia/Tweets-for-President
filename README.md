@@ -1,6 +1,7 @@
 # Sentiment-Analysis-Hackathon
 
 This was built for the [2020 Hack.GT Hackathon](https://2020.hack.gt/) and is meant to run sentiment analysis on twitter tweets
+To run this install the modules and run main.py then open the HTML file in your browser of choice also add your api keys
 
 ## Inspiration
 Getting a constant stream of thoughts from people is now possible with Twitter’s API and to process them automatically is not very hard so I thought, why not put them together. We used this "thought processing" to analyze how people thought about Donald Trump and Joe Biden (as there is an election coming very soon)
