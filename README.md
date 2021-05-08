@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Hackathon
+# Tweets for President
 
 This was built for the [2020 Hack.GT Hackathon](https://2020.hack.gt/) and is meant to run sentiment analysis on twitter tweets
 To run this install the modules and run main.py then open the HTML file in your browser of choice also add your api keys
